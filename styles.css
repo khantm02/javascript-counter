@@ -1,0 +1,27 @@
+* {
+    padding: 0px; 
+    margin: 0px;
+    box-sizing: border-box;
+}
+#counter {
+    text-align: center;
+    font-size: 5em;
+    font-weight: bold;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+#btnContainer {
+    text-align: center;
+}
+
+.Btn {
+    border-radius: 25px 25px;
+    padding : 10px 15px;
+    border: 1px solid aqua;
+    background-color: aqua;
+    font-weight: bold;
+}
+
+.Btn:hover {
+    background-color: antiquewhite;
+}
